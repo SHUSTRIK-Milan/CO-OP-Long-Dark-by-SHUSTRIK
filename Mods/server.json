@@ -1,0 +1,12 @@
+{
+   "SaveSlot": "SANDBOX 8",
+   "ItemDupes": false,
+   "ContainersDupes": false,
+   "SpawnStyle": 0,
+   "MaxPlayers": 2,
+   "P2P": false,
+   "Public": false,
+   "Ports": 26950,
+   "WhiteList": ["11111111111111111", "22222222222222222"],
+   "ServerName": "My Dedicated server",
+}

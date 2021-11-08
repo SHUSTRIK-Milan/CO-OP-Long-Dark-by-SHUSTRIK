@@ -1,0 +1,9 @@
+﻿{
+	"pilgramSpawnProbabilityMultiplier": 1,
+	"voyagerSpawnProbabilityMultiplier": 0.6,
+	"stalkerSpawnProbabilityMultiplier": 0.4,
+	"interloperSpawnProbabilityMultiplier": 0.2,
+	"storySpawnProbabilityMultiplier": 1,
+	"challengeSpawnProbabilityMultiplier": 1,
+	"alwaysSpawnItems": false
+}
